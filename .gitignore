@@ -2,3 +2,9 @@
 Thumbs.db
 *.swp
 *.swo
+
+# Sprint 102 working files that are not part of the validated support case report.
+support-cases/sprint-102-support-cases/Stories-Exportar para Call center.csv
+support-cases/sprint-102-support-cases/call center v2.zip
+support-cases/sprint-102-support-cases/call-center-stories-review.zip
+support-cases/sprint-102-support-cases/call-center-stories-table.html
