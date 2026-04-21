@@ -15,6 +15,7 @@ Use the links below to quickly navigate to the support cases of each sprint.
 | Sprint 100 | [Open Sprint 100 Support Cases](./sprint-100-support-cases) |
 | Sprint 101 | [Open Sprint 101 Support Cases](./sprint-101-support-cases) |
 | Sprint 102 | [Open Sprint 102 Support Cases](./sprint-102-support-cases) |
+| Sprint 103 | [Open Sprint 103 Support Cases](./sprint-103-support-cases) |
 
 Additional sprint folders will be added here as new support work is documented.
 
@@ -24,6 +25,7 @@ Example future structure:
 |------|------|
 | Sprint 100 | sprint-100-support-cases |
 | Sprint 101 | sprint-101-support-cases |
+| Sprint 102 | sprint-102-support-cases |
 | Sprint 103 | sprint-103-support-cases |
 
 ---
